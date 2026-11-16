@@ -1,3 +1,6 @@
+# Algoritmia 1 - Sesion 1: Fundamentos Algoritmia
+
+
 # 1. Saludo
 
 **Descripción:** Este algoritmo solicita el nombre del usuario y lo utiliza para mostrar un mensaje de bienvenida personalizado.

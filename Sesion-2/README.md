@@ -1,4 +1,6 @@
-# 1. ValidarRegistro
+# Algoritmia 1 - Sesion 2: Lógica proposicional
+
+# 1 ValidarRegistro
 
 **Lógica:**
 1. Se declaran las variables edad y respuesta.
@@ -70,7 +72,7 @@ Registro exitoso
 
 ---
 
-# 2. ValidarEdad
+# 2 ValidarEdad
 
 
 
@@ -242,7 +244,7 @@ El año 1900 NO es bisiesto.
 
 
 
-# SemaforoInventario
+# 4 SemaforoInventario
 
 
 **Preposiciones:**
