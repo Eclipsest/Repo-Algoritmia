@@ -248,3 +248,24 @@ flowchart TD
     class D,S,C,CH,M estructura
     class SI,CI,MI repetido
 ```
+
+```mermaid
+flowchart TD
+    CH[Chat] --> E[Encabezado]
+    CH --> L[Lista de mensajes]
+    CH --> T[Caja de texto]
+
+    L --> MSG["Mensaje<br/>× N · se repite"]
+
+    MSG --> A[Avatar]
+    MSG --> N[Nombre y hora]
+    MSG --> X[Texto]
+    MSG --> R[Reacciones]
+
+    classDef estructura fill:#EEEDFE,stroke:#534AB7,color:#3C3489
+    classDef repetido fill:#FAEEDA,stroke:#854F0B,color:#633806
+    classDef hoja fill:#E1F5EE,stroke:#0F6E56,color:#085041
+    class CH,E,L,T estructura
+    class MSG repetido
+    class A,N,X,R hoja
+```
